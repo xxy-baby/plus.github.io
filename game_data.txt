@@ -1,0 +1,3 @@
+library: An ancient library filled with lost knowledge.
+temple: A mysterious temple with hidden treasures.
+guardian: A powerful guardian protects the temple.
